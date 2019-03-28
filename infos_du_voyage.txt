@@ -4,6 +4,13 @@ Chez nous --> lac
 budget : 100€
 
 
+
+Budget sur place ?
+
+
+
+
 Retour:
 
 lac --> montagne --> chez nous
+budget : 80€
